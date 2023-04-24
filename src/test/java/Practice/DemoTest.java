@@ -6,6 +6,6 @@ public class DemoTest {
 @Test
 	public void method() {
 		System.out.println("HELLO");
-		//1st Pull
+		// Pull
 	}
 }
